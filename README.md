@@ -14,3 +14,6 @@ Commit to staging
 
 Pushing staging code to remote
 > git push
+
+Getting new changes from master branch
+> git pull
